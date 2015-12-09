@@ -1,0 +1,9 @@
+.home{
+background-image: url('/images/bg-img.jpg');
+max-width: 100%;
+height: auto;
+width: auto;
+}
+h1{
+	color: #FF8888;
+}
